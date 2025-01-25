@@ -34,15 +34,4 @@ Tutti i certificati elencati sono inclusi nella directory corrente e possono ess
 - **[Garrett 2 - Antonino Granata](./Garrett%202%20Antonino%20Granata.pdf)**  
 - **[Garrett 3 - Antonino Granata](./Garrett%203%20Antonino%20Granata.pdf)**  
 - **[Garrett 4 - Antonino Granata](./Garrett%204%20Antonino%20Granata.pdf)**  
-- **[Garrett 5 - Antonino Granata](./Garrett%205%20Antonino%20Granata.pdf)**  
-
----
-
-### 📈 Obiettivi futuri
-Sono sempre alla ricerca di nuove opportunità di apprendimento per migliorare le mie competenze. Se avete suggerimenti su certificazioni interessanti o corsi da seguire, non esitate a contattarmi!
-
----
-
-✨ **Grazie per la visita!**  
-Se avete domande o curiosità su uno qualsiasi dei certificati, non esitate a scrivermi. 😊
-
+- **[Garrett 5 - Antonino Granata](./Garrett%205%20Antonino%20Granata.pdf)**
