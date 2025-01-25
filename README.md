@@ -38,5 +38,11 @@ Tutti i certificati elencati sono inclusi nella directory corrente e possono ess
 
 ---
 
-### 📂 Struttura della directory
-Ecco come sono organizzati i file nel repository:
+### 📈 Obiettivi futuri
+Sono sempre alla ricerca di nuove opportunità di apprendimento per migliorare le mie competenze. Se avete suggerimenti su certificazioni interessanti o corsi da seguire, non esitate a contattarmi!
+
+---
+
+✨ **Grazie per la visita!**  
+Se avete domande o curiosità su uno qualsiasi dei certificati, non esitate a scrivermi. 😊
+
